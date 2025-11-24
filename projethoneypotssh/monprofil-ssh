@@ -1,0 +1,97 @@
+#include <tunables/global>
+
+profile monprofil-ssh /usr/bin/python3* flags=(attach_disconnected, audit) {
+    #include <abstractions/base>
+    #include <abstractions/python>
+    #include <abstractions/nameservice>
+    #include <abstractions/ssl_certs>
+    #include <abstractions/ssl_keys>
+
+    # === PERMISSIONS SYSTÈME ===
+    capability net_bind_service,
+    capability setuid,
+    capability setgid,
+    capability dac_read_search,
+    
+    network inet stream,
+    network inet6 stream,
+
+    # === PYTHON ===
+    
+   
+    /usr/lib/python3*/** mr,
+    /usr/local/lib/python3*/** mr,
+    
+    # === HONEYPOT - ACCÈS COMPLET ===
+    /home/fatimazahra/sephony-ssh/ r,
+    /home/fatimazahra/sephony-ssh/* r,
+    /home/fatimazahra/sephony-ssh/** r,
+    /home/fatimazahra/sephony-ssh/_pycache_/ rw,
+    /home/fatimazahra/sephony-ssh/_pycache_/* rw,
+    /home/fatimazahra/sephony-ssh/_pycache_/** rw,
+    
+    # === LOGS ===
+    /var/log/honeypot/ rw,
+    /var/log/honeypot/* rw,
+    /var/log/honeypot/** rw,
+    
+    # === LIBS ET PACKAGES ===
+    /usr/lib/python3*/dist-packages/** mr,
+    /home/fatimazahra/.local/lib/python3*/** mr,
+    
+    # === /PROC ET /SYS ===
+    @{PROC}/sys/kernel/random/uuid r,
+    @{PROC}/sys/vm/overcommit_memory r,
+    @{PROC}/@{pid}/stat r,
+    @{PROC}/@{pid}/status r,
+    @{PROC}/@{pid}/fd/ r,
+    
+    /sys/devices/system/cpu/ r,
+    /sys/devices/system/cpu/** r,
+    
+    # === CONFIG SYSTÈME NÉCESSAIRE ===
+    /etc/python3*/** r,
+    /etc/ld.so.cache r,
+    /etc/ld.so.preload r,
+    /etc/mime.types r,
+    /etc/ssl/** r,
+    
+    /usr/lib/x86_64-linux-gnu/** mr,
+    /lib/x86_64-linux-gnu/** mr,
+    
+    # === BLOCAGES CRITIQUES AVEC AUDIT ===
+    audit deny /etc/passwd r,
+    audit deny /etc/shadow r,
+    audit deny /etc/ssh/** r,
+    audit deny /root/.ssh/** r,
+    audit deny /home//.ssh/* r,
+    
+    # Bloque exécutions dangereuses
+    audit deny /bin/wget x,
+    audit deny /bin/curl x,
+    audit deny /bin/nc x,
+    audit deny /bin/bash x,
+    audit deny /bin/sh x,
+    audit deny /usr/bin/wget x,
+    audit deny /usr/bin/curl x,
+    audit deny /usr/bin/nc x,
+    audit deny /usr/bin/ncat x,
+    audit deny /usr/bin/netcat x,
+    audit deny /usr/bin/bash x,
+    audit deny /usr/bin/sh x,
+    audit deny /usr/bin/dash x,
+    audit deny /usr/bin/perl x,
+    audit deny /usr/bin/php x,
+    audit deny /usr/bin/ruby x,
+    
+    deny capability sys_admin,
+    deny capability sys_ptrace,
+    deny capability sys_module,
+
+    # === BLOQUER PYTHON ===
+     audit deny /usr/bin/python x,
+     audit deny /usr/bin/python3 x,
+     audit deny /usr/bin/python3.* x,
+     deny /usr/bin/python3* x,
+     deny /usr/bin/python x,
+}

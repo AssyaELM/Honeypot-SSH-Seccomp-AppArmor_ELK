@@ -1,0 +1,432 @@
+{"timestamp": "2025-11-16T21:43:22.873074", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "sdwsdfdcsd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-16T21:43:26.991403", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "cd"}
+{"timestamp": "2025-11-16T21:43:29.305721", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "wget"}
+{"timestamp": "2025-11-16T22:33:52.637654", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "hii", "password": "fatii", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-16T22:33:56.261933", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "wget"}
+{"timestamp": "2025-11-16T22:33:57.975913", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "cd"}
+{"timestamp": "2025-11-16T22:33:59.882291", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "pid"}
+{"timestamp": "2025-11-16T22:34:01.493085", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "id"}
+{"timestamp": "2025-11-16T22:34:02.498981", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "ls"}
+{"timestamp": "2025-11-16T22:34:09.332312", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-16T22:36:03.434760", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "cd"}
+{"timestamp": "2025-11-16T23:07:09.125651", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "CD"}
+{"timestamp": "2025-11-16T23:07:11.845769", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "CAT"}
+{"timestamp": "2025-11-16T23:07:14.859459", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "wget"}
+{"timestamp": "2025-11-16T23:07:18.490889", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "exit"}
+{"timestamp": "2025-11-16T23:07:20.198114", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hii", "command": "cd"}
+{"timestamp": "2025-11-17T11:47:06.127614", "event_type": "ssh_login_attempt", "source_ip": "10.51.52.211", "username": "root", "password": "qssyqtest", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T11:47:11.274767", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "l;s\b\b\b"}
+{"timestamp": "2025-11-17T11:47:15.184990", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "ls"}
+{"timestamp": "2025-11-17T11:47:22.415967", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cqt \b\b\b\b"}
+{"timestamp": "2025-11-17T11:47:38.773441", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cat /etc/pq"}
+{"timestamp": "2025-11-17T11:48:47.311752", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "\u001b[A\u001b[Bca\u001b[D \b\b \b\bcat /ettttyc\u001b[C\u001b[C\b\bttcttctc"}
+{"timestamp": "2025-11-17T11:49:29.946648", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cat /etc/passz\b\u001b[C \b\b  \b\bwd"}
+{"timestamp": "2025-11-17T11:50:02.597995", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "pz\b \b\u001b[3~\b \bwget"}
+{"timestamp": "2025-11-17T12:00:38.379094", "event_type": "ssh_login_attempt", "source_ip": "10.51.52.211", "username": "attacK", "password": "fatiassyapassw", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T12:00:49.739336", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "ls"}
+{"timestamp": "2025-11-17T12:00:52.951685", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "pwd"}
+{"timestamp": "2025-11-17T12:00:59.776787", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "whoami"}
+{"timestamp": "2025-11-17T12:01:10.222811", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "cat etc/shadow"}
+{"timestamp": "2025-11-17T12:01:48.265506", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "cat /etc//\b\u001b[C\b\b0\u001b[C\u001b[D\b \b\b\u001b[C\u001b[C \b\b/passwd/"}
+{"timestamp": "2025-11-17T12:01:59.107068", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "bash"}
+{"timestamp": "2025-11-17T12:02:10.040011", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "wget"}
+{"timestamp": "2025-11-17T12:03:48.659000", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "attacK", "command": "python3"}
+{"timestamp": "2025-11-17T12:06:18.883184", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "gysdsd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T12:06:30.527757", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwr\b \bd"}
+{"timestamp": "2025-11-17T12:07:59.637132", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "\u001b[A\u001b[B/etc/pqss\b\b\b \u001b[Da\u001b[C\u001b[Cwd"}
+{"timestamp": "2025-11-17T12:08:11.070920", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "\u0003 exit"}
+{"timestamp": "2025-11-17T12:21:54.933484", "event_type": "ssh_login_attempt", "source_ip": "10.51.52.211", "username": "root", "password": "portrh", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T12:22:32.702936", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cat  /etc/\b\b\b\b\b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D   \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D  \b\b\b\b\b \bt /etc/passwd"}
+{"timestamp": "2025-11-17T12:22:32.703192", "event_type": "file_read_attempt", "source_ip": "10.51.52.211", "command": "cat  /etc/\b\b\b\b\b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D   \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D  \b\b\b\b\b \bt /etc/passwd", "filepath": "/etc/\b\b\b\b\b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D   \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D  \b\b\b\b\b \bt /etc/passwd"}
+{"timestamp": "2025-11-17T12:23:45.171276", "event_type": "ssh_login_attempt", "source_ip": "10.51.52.211", "username": "root", "password": "adf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T12:23:57.148466", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T12:23:57.148706", "event_type": "file_read_attempt", "source_ip": "10.51.52.211", "command": "cat /etc/passwd", "filepath": "/etc/passwd"}
+{"timestamp": "2025-11-17T12:24:49.100518", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "wgetwget\b\b\b\b\b"}
+{"timestamp": "2025-11-17T12:24:49.100842", "event_type": "dangerous_command", "source_ip": "10.51.52.211", "command": "wgetwget\b\b\b\b\b", "threat_level": "high"}
+{"timestamp": "2025-11-17T12:24:54.217414", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "wget"}
+{"timestamp": "2025-11-17T12:24:54.217681", "event_type": "dangerous_command", "source_ip": "10.51.52.211", "command": "wget", "threat_level": "high"}
+{"timestamp": "2025-11-17T12:25:11.478476", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "bash*\b"}
+{"timestamp": "2025-11-17T12:25:11.478748", "event_type": "dangerous_command", "source_ip": "10.51.52.211", "command": "bash*\b", "threat_level": "high"}
+{"timestamp": "2025-11-17T12:25:22.316547", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "bash"}
+{"timestamp": "2025-11-17T12:25:22.316769", "event_type": "dangerous_command", "source_ip": "10.51.52.211", "command": "bash", "threat_level": "high"}
+{"timestamp": "2025-11-17T12:37:43.515259", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "fsss", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T12:37:53.972133", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwss\b\b  \b\bd"}
+{"timestamp": "2025-11-17T12:38:06.016913", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-17T12:38:24.802109", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd/"}
+{"timestamp": "2025-11-17T13:02:31.182883", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "fqtiii", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T13:02:33.892131", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cd"}
+{"timestamp": "2025-11-17T13:02:43.729163", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/.\b \bpasswd"}
+{"timestamp": "2025-11-17T13:03:03.208500", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "qqqs\b\b\b\b\b\b\b\u001b[C\u001b[C\u001b[C    \b\b\b\b\b wget"}
+{"timestamp": "2025-11-17T13:03:17.874457", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadox\b w\b\bw"}
+{"timestamp": "2025-11-17T13:03:45.960950", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "\u001b[A\u001b[Bcat /etc.p\b\b  \b\b/passwd"}
+{"timestamp": "2025-11-17T13:03:58.832616", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-17T13:04:21.718740", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T13:05:13.765102", "event_type": "ssh_login_attempt", "source_ip": "10.51.52.211", "username": "root", "password": "testagainnnn", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T13:05:26.631963", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T13:05:43.494621", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "id"}
+{"timestamp": "2025-11-17T13:05:48.418380", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "whoami"}
+{"timestamp": "2025-11-17T13:05:51.840596", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "pwd"}
+{"timestamp": "2025-11-17T13:05:53.445722", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "ls"}
+{"timestamp": "2025-11-17T13:06:07.888222", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "clear\b \b \b\b \b\b \b\b \b\b help"}
+{"timestamp": "2025-11-17T13:06:55.647844", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "bash"}
+{"timestamp": "2025-11-17T13:07:10.317946", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "pyhton\b \b \b\b \b\b\b \b  \b\bthon"}
+{"timestamp": "2025-11-17T13:07:14.731862", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "python3"}
+{"timestamp": "2025-11-17T13:08:08.598892", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "test-all"}
+{"timestamp": "2025-11-17T13:10:02.894542", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "curl"}
+{"timestamp": "2025-11-17T13:10:14.238988", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "wget"}
+{"timestamp": "2025-11-17T13:10:22.671086", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "uname-a"}
+{"timestamp": "2025-11-17T13:10:34.212395", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "uname-\b -a"}
+{"timestamp": "2025-11-17T13:11:09.727351", "event_type": "ssh_command", "source_ip": "10.51.52.211", "username": "root", "command": "uname -a"}
+{"timestamp": "2025-11-17T13:22:45.506838", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "ggsgss", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T13:22:57.758427", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T13:23:03.980882", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wger\b \bt"}
+{"timestamp": "2025-11-17T13:23:12.006057", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-17T16:55:08.631172", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "ggggg", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T16:55:18.772908", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T16:55:22.584107", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-17T16:55:25.094572", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cd"}
+{"timestamp": "2025-11-17T16:55:26.603173", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T16:55:28.506996", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "id"}
+{"timestamp": "2025-11-17T16:55:36.127873", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whp\b \bo am i"}
+{"timestamp": "2025-11-17T16:55:44.354809", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whp\boami"}
+{"timestamp": "2025-11-17T16:55:56.494085", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whoami"}
+{"timestamp": "2025-11-17T16:56:03.809317", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-17T17:02:30.203591", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "fffff", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T17:02:32.114120", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cd"}
+{"timestamp": "2025-11-17T17:02:40.956297", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-17T17:02:45.071977", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-17T17:02:52.909504", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pyh\bthon3"}
+{"timestamp": "2025-11-17T17:03:00.147663", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "python3"}
+{"timestamp": "2025-11-17T18:29:51.750999", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "edd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T18:29:55.565696", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T18:29:56.993426", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "root"}
+{"timestamp": "2025-11-17T18:29:59.804621", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-17T18:30:03.118915", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "is\b"}
+{"timestamp": "2025-11-17T18:30:05.337447", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "\bid"}
+{"timestamp": "2025-11-17T18:30:52.764041", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "\u0003\u0003curl http://localhost:9200/honeypot-logs/_search?pretty\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"}
+{"timestamp": "2025-11-17T18:38:34.946745", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "hhhhh", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T18:38:39.611209", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cd"}
+{"timestamp": "2025-11-17T18:38:43.617615", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-17T18:38:47.073053", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T18:38:53.568328", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "python3"}
+{"timestamp": "2025-11-17T18:38:59.217423", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "curl"}
+{"timestamp": "2025-11-17T18:39:03.660473", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-17T18:51:58.590960", "event_type": "ssh_connection_rejected", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T18:54:33.073340", "event_type": "ssh_connection_rejected", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T19:34:24.988926", "event_type": "ssh_connection_rejected", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T19:41:42.155312", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "hrhfhf\u001b[6~", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T19:41:44.401518", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cd"}
+{"timestamp": "2025-11-17T19:41:54.658218", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "fat\b\b\b   \b\b\bwhoami"}
+{"timestamp": "2025-11-17T19:42:00.808977", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whoami"}
+{"timestamp": "2025-11-17T19:42:05.736152", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T21:05:09.949163+00:00", "event_type": "ssh_connection_rejected", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T21:05:50.021880+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fqfqfqfq", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:05:50.152405+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:06:22.803630+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fgfgttr", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:06:22.919746+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:07:09.187031+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "exit", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:07:09.215121+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:07:21.787154+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "vvbkjd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:07:21.908578+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:07:35.301681+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "pwd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:07:35.420110+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:08:13.328502+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "hhhhh", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:08:16.166190+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T21:08:20.614905+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-17T21:08:56.867052+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T21:09:03.902152+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:18.381314+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fati", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:18.391166+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:31.135588+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "gdgdgd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:31.254065+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:34.377133+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "jejejee", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:34.494188+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:37.792189+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "kwekekf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:37.904647+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:41.378362+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "jfjerfjre", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:41.911878+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:10:50.758796+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "jifjdfhedf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:10:50.878264+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:12:31.764021+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "hdsdsd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:12:31.884030+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:12:45.579715+00:00", "event_type": "ssh_connection_rejected", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T21:18:34.193722+00:00", "event_type": "ssh_protocol_warning", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh", "action": "auth_continued"}
+{"timestamp": "2025-11-17T21:19:22.423234+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "gggg", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:19:25.265339+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-17T21:19:30.607459+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whoami"}
+{"timestamp": "2025-11-17T21:19:40.261224+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "python3"}
+{"timestamp": "2025-11-17T21:19:52.313559+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "o\bl\b \bid"}
+{"timestamp": "2025-11-17T21:19:55.328753+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "id"}
+{"timestamp": "2025-11-17T21:20:01.583164+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-17T21:20:15.236751+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "uname -q\ba"}
+{"timestamp": "2025-11-17T21:21:31.481053+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "hiiiassyaa", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:31.609132+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:21:38.989890+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "cvvv", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:39.109558+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:21:43.040636+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "hhhhh", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:43.158924+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:21:47.475163+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fTIII", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:47.594983+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:21:50.427057+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "HJEIHEFERF", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:51.032115+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:21:52.935984+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "IDFIHEF", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:21:53.045759+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:22:00.738330+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "JDUHFEUFHE", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:22:00.858887+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:30:05.771702+00:00", "event_type": "ssh_protocol_warning", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh", "action": "auth_continued"}
+{"timestamp": "2025-11-17T21:50:07.491858+00:00", "event_type": "ssh_protocol_warning", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T21:50:12.158796+00:00", "event_type": "ssh_protocol_warning", "source_ip": "127.0.0.1", "error": "MessageOrderError", "client_type": "libssh"}
+{"timestamp": "2025-11-17T21:59:27.815832+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fati", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:27.846359+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:59:35.650205+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "assia", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:35.771403+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:59:39.236812+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "ana", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:39.359931+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:59:41.996475+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "hjdd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:42.120358+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:59:44.828975+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "skdwsd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:45.411809+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T21:59:47.643022+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "kjmsidjir", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T21:59:47.652581+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-17T22:00:01.759256+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "sjdfdif", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-17T22:00:01.870009+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:02:48.968627+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "fatimazahraassya", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:02:52.904580+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-18T12:02:59.910955+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "whoami"}
+{"timestamp": "2025-11-18T12:03:06.869117+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-18T12:03:32.711462+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pyh\b \bthon3 h\b \bhoneypotssh.py"}
+{"timestamp": "2025-11-18T12:03:47.685788+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:04:02.282619+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadoz\bw"}
+{"timestamp": "2025-11-18T12:05:13.077836+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "nc -l 2222"}
+{"timestamp": "2025-11-18T12:06:37.375572+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget http.\b;\b://www.example,\b<\b>\b<\b.com/images/logo,\b<\b.png"}
+{"timestamp": "2025-11-18T12:06:46.423462+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "id"}
+{"timestamp": "2025-11-18T12:08:28.766077+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T12:10:54.892455+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "assyafatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:10:58.528502+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "ls"}
+{"timestamp": "2025-11-18T12:11:01.151434+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "id"}
+{"timestamp": "2025-11-18T12:11:04.573552+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "pwd"}
+{"timestamp": "2025-11-18T12:11:09.705681+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "whoami"}
+{"timestamp": "2025-11-18T12:11:20.556459+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:11:33.125650+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "python3 fichier.py"}
+{"timestamp": "2025-11-18T12:18:56.031326+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "ASSIAAA", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:18:56.154778+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:03.633092+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "fatiiii]", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:03.759843+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:12.560125+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "hdffjrgr", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:12.695242+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:15.873670+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "jejhuerjheur", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:15.987034+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:18.662023+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "iejrfihfrjgu", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:19.319731+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:21.611989+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "jhefuhrfeuf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:21.734052+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:19:27.591616+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "kjdfikjgkrg", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:19:27.714966+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-18T12:26:48.096204+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "test", "password": "hudccjicd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:26:51.949645+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "ls"}
+{"timestamp": "2025-11-18T12:26:56.098174+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "id"}
+{"timestamp": "2025-11-18T12:27:08.486025+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:27:20.651377+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "car\bt /etc/shadow"}
+{"timestamp": "2025-11-18T12:27:34.345921+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pythons\b3 fichier.py"}
+{"timestamp": "2025-11-18T12:27:39.996410+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-18T12:27:46.262757+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "pwd"}
+{"timestamp": "2025-11-18T12:28:46.886387+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "nc 0\b-l 2222"}
+{"timestamp": "2025-11-18T12:29:04.224039+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "curl http.\b\b\b\b\b\b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\b\b\b\b     \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D"}
+{"timestamp": "2025-11-18T12:34:28.325184+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "python3"}
+{"timestamp": "2025-11-18T12:34:34.478980+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-18T12:34:41.546208+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:35:22.712635+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passz\bwd"}
+{"timestamp": "2025-11-18T12:35:33.474930+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat/\b /etc/passwd"}
+{"timestamp": "2025-11-18T12:35:44.336596+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:35:57.485660+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat .\b/etc/shadow"}
+{"timestamp": "2025-11-18T12:36:09.149477+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T12:36:14.375554+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "test", "command": "wget"}
+{"timestamp": "2025-11-18T12:40:43.158216+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "attack", "password": "fshsjhdhd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:40:52.205199+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:41:00.849652+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T12:41:05.585092+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "wget"}
+{"timestamp": "2025-11-18T12:41:11.415447+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "curl"}
+{"timestamp": "2025-11-18T12:42:27.145201+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "attack", "password": "hdfjdf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:42:34.697885+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:42:43.551662+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T12:42:47.779276+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "wget"}
+{"timestamp": "2025-11-18T12:42:52.717311+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "curl"}
+{"timestamp": "2025-11-18T12:42:57.545851+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "python3"}
+{"timestamp": "2025-11-18T12:44:03.392548+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:44:09.343486+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "z\bwget"}
+{"timestamp": "2025-11-18T12:44:53.602092+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "curl"}
+{"timestamp": "2025-11-18T12:44:59.439744+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "python3"}
+{"timestamp": "2025-11-18T12:45:02.161142+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "ls"}
+{"timestamp": "2025-11-18T12:45:04.479110+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "id"}
+{"timestamp": "2025-11-18T12:45:46.560645+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/shadoz\bw"}
+{"timestamp": "2025-11-18T12:45:55.923159+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "attack", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T12:46:41.305407+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "okkkk", "password": "hhsdhsd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:47:00.319428+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T12:47:02.954711+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "pwd"}
+{"timestamp": "2025-11-18T12:47:05.677705+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "id"}
+{"timestamp": "2025-11-18T12:47:15.210552+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "catn\b /etc/shadow"}
+{"timestamp": "2025-11-18T12:47:19.451579+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "wget"}
+{"timestamp": "2025-11-18T12:47:25.689818+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "cuel\b\br"}
+{"timestamp": "2025-11-18T12:47:36.136832+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "cuer\b\b\b\b    \b\b\b\b\b curl"}
+{"timestamp": "2025-11-18T12:55:58.262734+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "okkkk", "password": "ksdjms", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T12:56:03.600116+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "python3"}
+{"timestamp": "2025-11-18T12:56:07.838007+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "python"}
+{"timestamp": "2025-11-18T12:56:18.785131+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "pyhto\b\b\b   \b\b\b\b \bython3"}
+{"timestamp": "2025-11-18T12:56:26.827059+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "okkkk", "command": "python3"}
+{"timestamp": "2025-11-18T14:51:54.410308+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "hiiii", "password": "hdhdhdhd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T14:52:02.882799+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cd\b\b  \b\bld\bs"}
+{"timestamp": "2025-11-18T14:52:06.757876+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "id"}
+{"timestamp": "2025-11-18T14:52:16.657835+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "whoqm\b\ba\u001b[Co\bi"}
+{"timestamp": "2025-11-18T14:52:23.008958+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "whoami"}
+{"timestamp": "2025-11-18T14:52:34.120882+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T14:52:41.464982+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "pyh\bthon"}
+{"timestamp": "2025-11-18T14:52:47.908646+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "python"}
+{"timestamp": "2025-11-18T14:52:55.068423+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "ping"}
+{"timestamp": "2025-11-18T14:53:03.621967+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "ping"}
+{"timestamp": "2025-11-18T14:53:15.082161+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "basg\bh"}
+{"timestamp": "2025-11-18T14:53:23.946331+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "bash"}
+{"timestamp": "2025-11-18T14:54:54.167291+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T14:55:04.560728+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/shadoz\bw"}
+{"timestamp": "2025-11-18T14:55:14.723303+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T14:55:21.462614+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "bash"}
+{"timestamp": "2025-11-18T14:55:26.100911+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "wget"}
+{"timestamp": "2025-11-18T14:55:46.591476+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "wger\bt"}
+{"timestamp": "2025-11-18T14:55:53.450911+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "wget"}
+{"timestamp": "2025-11-18T14:55:58.600329+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "curl"}
+{"timestamp": "2025-11-18T14:56:03.660173+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "bash"}
+{"timestamp": "2025-11-18T14:59:35.954464+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat .etc.passwd\b\b\b\b\b\b\b\b\b\b\b/\u001b[C\u001b[C\u001b[C/"}
+{"timestamp": "2025-11-18T14:59:46.848133+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "\u001b[?1;2c\u001b[?1;2c\u001b[?1;2ccat /etc/passwd"}
+{"timestamp": "2025-11-18T14:59:58.029969+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T15:00:04.483468+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "bash"}
+{"timestamp": "2025-11-18T15:00:09.837756+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "wget"}
+{"timestamp": "2025-11-18T15:00:30.549402+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "python"}
+{"timestamp": "2025-11-18T15:01:25.389120+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "hiiii", "password": "djhdhdd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T15:01:39.689961+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "u\bcat/\b /etc/passwd"}
+{"timestamp": "2025-11-18T15:01:49.159287+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T15:01:59.136398+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T15:02:05.085128+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "bash"}
+{"timestamp": "2025-11-18T15:02:10.625022+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "wget"}
+{"timestamp": "2025-11-18T15:02:53.290564+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "hiiii", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:32:59.369376+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "moi", "password": "test", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:33:12.346046+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:33:20.392958+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "wget"}
+{"timestamp": "2025-11-18T21:33:26.334506+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "curl"}
+{"timestamp": "2025-11-18T21:33:32.481472+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "bash"}
+{"timestamp": "2025-11-18T21:33:35.315894+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "id"}
+{"timestamp": "2025-11-18T21:33:38.239652+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "pwd"}
+{"timestamp": "2025-11-18T21:33:43.875596+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "whoami"}
+{"timestamp": "2025-11-18T21:37:35.103444+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "moi", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:38:12.396388+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "cat /etc/pq\basswd"}
+{"timestamp": "2025-11-18T21:38:24.381869+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:38:31.826218+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "wget"}
+{"timestamp": "2025-11-18T21:38:46.728897+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "python \b3 fiv\bchier.py"}
+{"timestamp": "2025-11-18T21:38:52.080539+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "curl"}
+{"timestamp": "2025-11-18T21:38:54.820913+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "id"}
+{"timestamp": "2025-11-18T21:39:00.253264+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "whoami"}
+{"timestamp": "2025-11-18T21:39:04.378228+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "pwd"}
+{"timestamp": "2025-11-18T21:39:57.942661+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "moi", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:40:05.609038+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:40:09.444892+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "pwd"}
+{"timestamp": "2025-11-18T21:40:11.679900+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "id"}
+{"timestamp": "2025-11-18T21:40:20.438550+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T21:40:25.772006+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "wget"}
+{"timestamp": "2025-11-18T21:40:31.205484+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "curl"}
+{"timestamp": "2025-11-18T21:40:34.540252+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "ls"}
+{"timestamp": "2025-11-18T21:40:54.437952+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "moi", "command": "python3 fichier.py"}
+{"timestamp": "2025-11-18T21:46:21.415414+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:46:24.543448+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "ls"}
+{"timestamp": "2025-11-18T21:46:28.779222+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "whoami"}
+{"timestamp": "2025-11-18T21:46:34.623145+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "pwd"}
+{"timestamp": "2025-11-18T21:46:43.568842+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:46:52.126758+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T21:47:06.993917+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "curl"}
+{"timestamp": "2025-11-18T21:47:19.968580+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "python3 fichier,\b.py"}
+{"timestamp": "2025-11-18T21:47:50.302949+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:50:14.694421+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:51:34.333984+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "tessttt", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:51:37.753896+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "ls"}
+{"timestamp": "2025-11-18T21:51:44.287223+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "whoami"}
+{"timestamp": "2025-11-18T21:51:55.456117+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:52:05.310811+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-18T21:52:47.474132+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "curl"}
+{"timestamp": "2025-11-18T21:52:51.095059+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "wget"}
+{"timestamp": "2025-11-18T21:53:56.363437+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:54:01.608871+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "wget"}
+{"timestamp": "2025-11-18T21:57:42.164965+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T21:57:54.828355+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /et.p\b\b  \b\bc/passwd"}
+{"timestamp": "2025-11-18T21:58:05.307594+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T21:58:10.352062+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "wget"}
+{"timestamp": "2025-11-18T21:58:17.693552+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cy\b \burl"}
+{"timestamp": "2025-11-18T21:58:21.919403+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "curl"}
+{"timestamp": "2025-11-18T22:20:21.235832+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-18T22:20:26.974797+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "whoami"}
+{"timestamp": "2025-11-18T22:20:34.913148+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-18T22:20:43.869153+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-20T11:20:59.695305+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:23:44.438507+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "c\b fatimazahra"}
+{"timestamp": "2025-11-20T11:28:12.792960+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "fatimazahra", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:28:15.128453+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "ls"}
+{"timestamp": "2025-11-20T11:28:18.952923+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "whoami"}
+{"timestamp": "2025-11-20T11:28:54.519790+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "pwd"}
+{"timestamp": "2025-11-20T11:29:02.967824+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-20T11:29:12.217210+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-20T11:29:21.474231+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "python3 fichier.py"}
+{"timestamp": "2025-11-20T11:29:28.208688+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "bah\bsh"}
+{"timestamp": "2025-11-20T11:38:07.868492+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "ca\b\b  \b\bcat /etc/passwd"}
+{"timestamp": "2025-11-20T11:38:16.825944+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-20T11:38:26.475780+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-20T11:39:16.168910+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "someone", "password": "dwcdwwed", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:39:30.169906+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-20T11:39:46.039067+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadoz\bw"}
+{"timestamp": "2025-11-20T11:39:56.882769+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "someone", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-20T11:41:22.129093+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "shdgfdydf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:22.253112+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:25.299576+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "whjduhefuefhdne", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:25.409678+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:28.045368+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "weheuhed", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:28.158197+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:30.574711+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "iwejdijfdeif", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:30.689204+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:32.946240+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "oekfdeofkefk", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:33.655873+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:35.519744+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "oefkeofkreof", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:35.636871+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T11:41:38.578324+00:00", "event_type": "ssh_login_attempt", "source_ip": "127.0.0.1", "username": "root", "password": "kejfirgjrif", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T11:41:38.709924+00:00", "event_type": "ssh_command", "source_ip": "127.0.0.1", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:26:42.846932+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "assyafatitest", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:26:45.815763+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "ls"}
+{"timestamp": "2025-11-20T12:26:49.037282+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "whoami"}
+{"timestamp": "2025-11-20T12:26:51.675257+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "pwd"}
+{"timestamp": "2025-11-20T12:26:53.197549+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "id"}
+{"timestamp": "2025-11-20T12:27:01.954509+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "cat /etc/passwd"}
+{"timestamp": "2025-11-20T12:27:10.697076+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "cat etc/shadow"}
+{"timestamp": "2025-11-20T12:27:17.571936+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "cat /etc/shadow"}
+{"timestamp": "2025-11-20T12:27:23.409855+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "python3"}
+{"timestamp": "2025-11-20T12:27:26.240829+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "bash"}
+{"timestamp": "2025-11-20T12:29:24.012697+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:31:43.755364+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "admin", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:31:43.883166+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:33:57.793041+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "assuaaa", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:33:58.701847+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:06.859693+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "ssjdndnjdfc", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:07.617715+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:13.926018+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "faatii", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:14.683933+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:20.688750+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "assiaaa", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:21.706883+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:30.342848+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "attacjjj", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:31.867083+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:40.431019+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "sshhhh", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:41.761511+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:34:46.269079+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "jdfhnjdfdf", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:34:47.365693+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:50:51.954971+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "adminjj", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:50:52.970918+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:51:12.473326+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "adminj", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:51:12.896649+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:51:18.545969+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "aa", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:51:19.215005+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:51:32.239766+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "addd", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:51:33.071446+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
+{"timestamp": "2025-11-20T12:51:44.220931+00:00", "event_type": "ssh_login_attempt", "source_ip": "10.93.94.211", "username": "root", "password": "papppa", "auth_type": "password", "success": false}
+{"timestamp": "2025-11-20T12:51:45.131035+00:00", "event_type": "ssh_command", "source_ip": "10.93.94.211", "username": "root", "command": "exit"}
