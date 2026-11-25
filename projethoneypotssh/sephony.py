@@ -23,8 +23,8 @@ from collections import defaultdict
 from config import CONFIG
 from my_seccomp import apply_seccomp 
 #CONFIG TELEGRAM 
-TELEGRAM_TOKEN   = "8176741328:AAHLI_mq4N594mJqKzY2BVzV_giQD-lI8P4"  
-TELEGRAM_CHAT_ID = "1668881628"                                      
+TELEGRAM_TOKEN   = "************"  
+TELEGRAM_CHAT_ID = "*********************"                                      
 
 # Configuration
 HONEYPOT_HOST = '0.0.0.0'
